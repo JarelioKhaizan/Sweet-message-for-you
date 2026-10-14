@@ -4,8 +4,8 @@ genText.addEventListener("click", function() {
   let messages = [
     "I love you, I love you and I will love you forever!",
     "My love for you is timeless",
-    "Without you, I am not complete",
-    "Im thinking about you",
+    "Without you, I'm not complete",
+    "I'm thinking about you",
     "I love you",
     "Were perfect for each other",
     "I cannot live without your love.",
